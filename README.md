@@ -14,17 +14,6 @@ I'm a passionate student studying A-levels. In my free time, I dive into the wor
 - HTML, CSS, JavaScript
 - Visual Studio Code
 
-## 🔧 Projects
-
-### [Portfolio Website](https://dylanmck.com)
-A simple portfolio website for myself including some of the stuff I've been up to!
-
-![Quick Preview](https://imgur.com/Jwi4Nnm)
-
-## 🌱 I'm Currently Learning
-
-- Databases and data modeling
-
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/dylan-mckenzie-4672b1238/)
