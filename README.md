@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Dylan McKenzie
 
-I'm a passionate student studying A-levels. In my free time, I dive into the world of web development, turning ideas into interactive and visually appealing websites.
+nice
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing A-levels in Maths, Accounting, Business, and IT.
+- 🎓 Currently pursuing a computing degree!
 - 💻 Enthusiastic about web development, programming, and technology.
 - 🌐 Constantly learning and exploring new technologies to enhance my skills.
 - 🤝 Open to collaboration on interesting projects.
