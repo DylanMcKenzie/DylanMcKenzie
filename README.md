@@ -1,8 +1,8 @@
 # Hi, I'm Dylan McKenzie
 
 ## About Me
-I am a computing student passionate about web development, programming, and technology.  
-I enjoy learning new technologies and building creative, functional projects.
+I am a Software Engineer at Kainos, currently completing a Computing Systems degree part-time at Ulster University.  
+I am passionate about web development, programming, and technology, and I enjoy learning new technologies and building creative, functional projects.
 
 ## Skills & Tools
 
