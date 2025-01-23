@@ -7,7 +7,7 @@ I have a strong passion for **web development**, **programming**, and all things
 
 ## ✨ About Me
 
-- 🎓 **Education:** Completing a part-time **Computing Systems** degree at **Ulster University**  
+- 🎓 **Education:** Completing a part-time **Computing Systems** degree at **Ulster University**.
 - 💻 **Interests:** Web development, software engineering, and exploring new tech stacks.  
 - 🚀 **Goals:** Want to continue to learn as much as I can!  
 
